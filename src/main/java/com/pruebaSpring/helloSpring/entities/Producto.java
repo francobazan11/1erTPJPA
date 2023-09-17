@@ -50,5 +50,5 @@ public class Producto implements Serializable {
     @Column(name = "receta")
     private String receta;
     
-
+    
 }
